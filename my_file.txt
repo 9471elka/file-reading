@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+This is line 3 with some numbers: 98765
+This is line 4 appended.
+Another line with text.
+Appending more numbers: 24680
